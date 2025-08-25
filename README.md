@@ -9,7 +9,7 @@
 
 ##### This is a working example project, but you can modify it to your liking.
 
-#####I'm not a programmer, but I enjoy making programs :)
+##### I'm not a programmer, but I enjoy making programs :)
 
 
 
