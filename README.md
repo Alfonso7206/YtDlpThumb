@@ -3,9 +3,9 @@
 ###### To download the files for the program:
 
 
-### Method 1: Run Download_Binary.cmd
+#### Method 1: Run Download_Binary.cmd
 
-### Method 2: Download binary (yt-dlp,ffmpeg and ffprobe) manually
+#### Method 2: Download binary (yt-dlp,ffmpeg and ffprobe) manually
 
 ##### This is a working example project, but you can modify it to your liking.
 
