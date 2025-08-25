@@ -1,6 +1,6 @@
 # YtDlpThumb
 
-## Tool to download video and audio from multiple websites using yt-dlp ## 
+## Tool to download video and audio from multiple websites using [yt-dlp](https://github.com/yt-dlp/yt-dlp) ## 
 
 ###### To download the files for the program:
 
