@@ -1,5 +1,7 @@
 # YtDlpThumb
 
+## Tool to download video and audio from multiple websites using yt-dlp ## 
+
 ###### To download the files for the program:
 
 
